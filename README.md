@@ -8,6 +8,7 @@ Técnico Superior en Desarrollo de Aplicaciones Web (DAW), en actual formacion d
 
 - **Frontend:** HTML, CSS, JavaScript.
 - **Backend:** PHP, Python, Java.
+- **Desarrollo de aplicaciones en movil:** Kotlin Android.
 - **Bases de datos:** MySQL.
 - **Control de versiones:** Git y GitHub.
 - **Entornos de desarrollo:** Visual Studio Code, Eclipse y NetBeans.
